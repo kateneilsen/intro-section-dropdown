@@ -55,6 +55,5 @@ ul{
     grid-template-rows: auto 1fr;
     display: grid;
 	align-items: center;
-	justify-content: center;
   }
 }
