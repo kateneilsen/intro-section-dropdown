@@ -1,11 +1,14 @@
 <script>
-	export let name;
+  import Nav from "./components/Nav.svelte";
+  import Home from "./components/Home.svelte";
+  import OffCanvas from "./components/OffCanvas.svelte";
+
+  let isVisible = false;
+  const showOffCanvas = () => {
+    isVisible = true;
+  };
 </script>
 
-<style>
-	h1 {
-		color: purple;
-	}
-</style>
-
-<h1>Hello {name}!</h1>
+<Nav on:showOffCanvas={() => (isVisible = true)} />
+<OffCanvas {isVisible} on:closeOffCanvas={() => (isVisible = false)} />
+<Home />
