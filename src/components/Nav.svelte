@@ -68,7 +68,7 @@
 
 <style>
   nav {
-    padding: 1rem;
+    padding: 2rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
