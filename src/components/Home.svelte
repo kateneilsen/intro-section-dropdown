@@ -121,7 +121,6 @@
       align-items: flex-start;
       justify-content: space-between;
       gap: 3rem;
-      /* height: 100%; */
     }
 
     h1 {
