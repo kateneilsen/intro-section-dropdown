@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/kateneilsen/fm-intro-section-dropdown-nav](https://github.com/kateneilsen/fm-intro-section-dropdown-nav)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://intro-section-dropdown-zeta.vercel.app/](https://intro-section-dropdown-zeta.vercel.app/)
 
 ## My process
 
